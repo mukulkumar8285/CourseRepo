@@ -1,0 +1,15 @@
+{
+  "name": "@mukul_kumar/axios",
+  "version": "1.0.0",
+  "description": "my second project on npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node axios.js",
+    "test": "axios.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
